@@ -3,7 +3,6 @@
   "builds": [
     {
       "src": "Zix.html",
-      "use": "@vercel/html"
     }
   ],
   "routes": [
